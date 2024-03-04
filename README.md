@@ -1,5 +1,5 @@
 # Crypto Notifier - BTC-USD prices View
 
 ![Image](crypto.png)
-![Image](simulator.png)
+<img src="simulator.png" alt="Alt Text" width="300">
 
